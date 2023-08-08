@@ -17,3 +17,5 @@ we use 'git commit -am "message"' directly to track and save the changes and pus
 
 Pulled changes after merging in remote into local machine in master branch
 Now we can delete the feature branch if its not nessesary any more by using 'git branch -d feature branch name'
+
+Now we are checking the changes that are made at a time and what to accept.
