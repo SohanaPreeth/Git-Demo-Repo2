@@ -13,3 +13,7 @@ get inside the Git-DEmo-Repo2 by using 'cd Git-DEmo-Repo2'.
 These are the changes thata are done in feature branch, we are saving these changes in the feature branch, so these changes will not reflect in master file, untill and unless we merge the files.
 we use 'git commit -am "message"' directly to track and save the changes and push this changes in the remote repo.
 'git push --set-upstream origin feature_trail_branch' will be used to push the changes in the remote repo.
+
+
+Pulled changes after merging in remote into local machine in master branch
+Now we can delete the feature branch if its not nessesary any more by using 'git branch -d feature branch name'
