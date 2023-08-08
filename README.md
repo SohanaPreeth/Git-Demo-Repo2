@@ -19,3 +19,4 @@ Pulled changes after merging in remote into local machine in master branch
 Now we can delete the feature branch if its not nessesary any more by using 'git branch -d feature branch name'
 
 Now we are checking the changes that are made at a time and what to accept.
+These are the changes that are made in feature-quick-test
